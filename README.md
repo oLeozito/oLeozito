@@ -24,5 +24,8 @@
   <a href="https://www.linkedin.com/in/oleozito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-  ![Snake animation](https://github.com/oLeozito/oLeozito/blob/output/github-contribution-grid-snake.svg)
+---
+
+<p align="center">
+  <img src="https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
