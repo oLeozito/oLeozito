@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>Olá, me chamo Leonardo Oliveira Almeida da Cruz! 👋</h1>
+  <h1>Olá, me chamo Leonardo Oliveira! 👋</h1>
   <h3>Estudante de Engenharia de Computação</h3>
 </div>
-
-<br/>
 
 ## 👨‍💻 Sobre mim
 - 🎓 Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (**UEFS**).
